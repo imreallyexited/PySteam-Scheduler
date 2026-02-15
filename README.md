@@ -30,7 +30,7 @@ This tool operates as a standalone executable and requires no installation. It i
     * *Note: These are required to generate mobile authentication codes automatically.*
 
 5.  **Launch**
-    Run the `ARSI.exe` file. The terminal window will open and display the connection status.
+    Run the `ARSI.exe` file. The terminal window will open and display the connection status (if not errors).
 
 ## Retrieving Steam Secrets
 If you do not know your Shared or Identity secrets, you must extract them from your mobile authenticator device or desktop authenticator application.
