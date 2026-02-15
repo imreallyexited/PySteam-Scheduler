@@ -1,0 +1,5 @@
+steam
+gevent
+protobuf
+gevent-eventemitter
+pyinstaller
