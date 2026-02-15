@@ -28,7 +28,7 @@ def pause_and_exit():
 
 print("\n" + "="*40)
 print("   Auto-Refuse-Steam-Invites (Alpha)")
-print("   Github: github.com/username/project")
+print("   Github: github.com/imreallyexited/Auto-Refuse-Steam-Invites")
 print("="*40 + "\n")
 
 try:
