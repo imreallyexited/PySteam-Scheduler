@@ -16,5 +16,5 @@ env/
 .vscode/
 .idea/
 
-# Config with passwords (IMPORTANT)
+# Config with passwords
 config.txt
