@@ -1,0 +1,10 @@
+// Put your Steam username here:
+username
+// Put your Steam password here:
+password
+// Put your shared secret here:
+shared_secret
+// Put your identity secret here:
+identity_secret
+// Put your message to send to new invites here (leave blank for no message)
+I don't accept friend invites!
