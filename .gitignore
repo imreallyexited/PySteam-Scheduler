@@ -1,0 +1,20 @@
+# PyInstaller generated folders
+build/
+dist/
+*.spec
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Config with passwords (IMPORTANT)
+config.txt
