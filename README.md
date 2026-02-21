@@ -1,6 +1,6 @@
 # Welcome to my project! (Alpha)
 
-A lightweight Command Line Interface (CLI) utility designed to automatically reject incoming Steam friend requests.
+A Command Line Interface (CLI) utility designed to automatically reject incoming Steam friend requests.
 
 ## Overview
 This tool operates as a standalone executable and requires no installation. It is designed for users who wish to maintain a strict privacy policy on their Steam profiles by automating the rejection process.
